@@ -1,6 +1,6 @@
 // 서로 크기가 다른 배열을 변환하는 다음 2개 static 멤버 함수를 가진 ArrayUtility2 클래스를 만들어라
 // 아래 코드와 주석을 이해하고 필요한 내용을 코딩함.
-
+//
 #include <iostream>
 #include <string>
 using namespace std;
